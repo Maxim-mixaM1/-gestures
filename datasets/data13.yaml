@@ -1,0 +1,7 @@
+path: "C:\\\u041C\u0430\u043A\u0441\u0438\u043C\\PycharmProjects\\pythonProject1\\\
+  datasets"
+train: train
+val: valid
+test: test
+nc: 1
+names: [hand]

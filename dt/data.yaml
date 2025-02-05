@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['hand', 'left_click']
+
+roboflow:
+  workspace: zhesti
+  project: we-ljuta
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/zhesti/we-ljuta/dataset/2

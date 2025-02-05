@@ -1,0 +1,8 @@
+train: "C:Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\PycharmProjects\\pythonProject1\\\
+  datasets\\train"
+val: "C:Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\PycharmProjects\\pythonProject1\\\
+  datasets\\valid"
+test: "C:Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\PycharmProjects\\pythonProject1\\\
+  datasets\\test"
+nc: 1
+names: [hand]

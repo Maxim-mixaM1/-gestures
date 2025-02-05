@@ -1,0 +1,5 @@
+train: datasets/train
+val: datasets/valid
+test: datasets/test
+nc: 1
+names: [hand]

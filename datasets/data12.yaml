@@ -1,0 +1,5 @@
+train: "\\PycharmProjects\\pythonProject1\\datasets\train"
+val: "\\datasets\valid"
+test: "\\PycharmProjects\\pythonProject1\\datasets\test"
+nc: 1
+names: [hand]

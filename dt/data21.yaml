@@ -1,0 +1,5 @@
+train: C:/PycharmProjects/pythonProject1/dt/train
+val: C:/PycharmProjects/pythonProject1/dt/valid
+test: C:/PycharmProjects/pythonProject1/dt/test
+nc: 2
+names: [hand, left_click]
