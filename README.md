@@ -19,11 +19,19 @@ Once a specific gesture is identified in the webcam feed, the program computes t
 ## Conclusion
 By integrating Python's powerful libraries and the possibilities of computer vision, this project aims to provide a novel and thrilling way of interacting with your computer. Please stay tuned for more updates.
 
+# Project File Structure
 
+The project involves several files, each playing its role. Here's an introduction to what each file does:
 
-Основной файл это main
-файл robo - самая первая версия моего проекта. Работает очень медленно
-файл semka - просто обычная программа которая читает кадры с веб камеры в потоке
-остальные файлы использовалаись для обучения модели
-файл dt - dataset
-файл runs - результаты обучения модели yolo
+## Main Files
+- main: This file serves as the primary entry point to the program.
+- robo: This is the initial version of the project.
+- semka: This file contains a basic program capable of reading a video stream from a webcam.
+
+## Model Training Files
+- dt: Contains the dataset used for training the YOLO model.
+- runs: The results from the model training are stored here. They include various parameters and metrics that were arrived at following the training process.
+
+> Note: The remaining files are also related to model training, complementing and supporting the training process.
+
+A more detailed description of each of these files and their role in the overall project structure may be presented as may be required.
